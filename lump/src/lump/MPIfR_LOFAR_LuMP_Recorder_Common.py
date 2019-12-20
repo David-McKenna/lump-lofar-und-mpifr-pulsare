@@ -87,6 +87,8 @@ def convert_station_name(name):
         return "KjFI609"
     elif((name == "Nd") or (name == "DE609") or (name == "NdDE609")):
         return "NdDE609"
+    elif((name == "Br") or (name == "IE613") or (name == "BrIE613")):
+        return "BrIE613"
     return "Unknown"
 
 

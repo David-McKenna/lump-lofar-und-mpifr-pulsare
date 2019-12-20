@@ -1330,7 +1330,8 @@ const char* const LuMP_Telescope_Name_Converter(const char* const station_name) 
         {"OnSE607", "SE607"},
         {"CbUK608", "UK608"},
         {"KjFI609", "FI609"},
-	{"NdDE609", "DE609"},
+        {"NdDE609", "DE609"},
+        {"BrIE613", "IE613"},
         {"",""}
     };
     for(int i=0; ; i++) {
